@@ -71,6 +71,3 @@ Date.Full,Data.Temperature.Avg Temp
 
 An additional Jupyter Notebook (`heat_waves.ipynb`) is provided for detailed data analysis and testing of the heatwave detection algorithm.
 
-## License
-
-This project is licensed under the MIT License.
